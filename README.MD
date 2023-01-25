@@ -10,7 +10,7 @@ For each we showcase how to write a unit-test and how to deploy the contracts us
 
 ## Authors
 
-- [@tomw1808](https://www.github.com/tomw1808)
+- [@Millardh77](https://www.github.com/millardh77)
 - [Ethereum Blockchain Developer](https://ethereum-blockchain-developer)
 
 
